@@ -1,0 +1,15 @@
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\ajkle\Desktop\.net\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\ajkle\DotNet\Card_Draw\Presentation_Layer\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\ajkle\DotNet\Card_Draw\Presentation_Layer\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\ajkle\DotNet\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\ajkle\DotNet\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\ajkle\DotNet\Card_Draw\Presentation_Layer\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\ajkle\DotNet\Voice_Of_Cards\Presentation_Layer\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\ajkle\DotNet\Voice_Of_Cards\Presentation_Layer\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\ajkle\DotNet\Voice_Of_Cards\Presentation_Layer\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\ajkle\DotNet\Voice_Of_Cards\Presentation_Layer\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\ajkle\DotNet\Voice_Of_Cards\Presentation_Layer\DataObjects\obj\Debug\DataObjects.pdb
